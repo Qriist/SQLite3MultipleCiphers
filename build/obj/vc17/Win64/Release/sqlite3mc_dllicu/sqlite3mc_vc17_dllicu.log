@@ -1,0 +1,9 @@
+﻿  sqlite3mc.c
+C:\Projects\SqlarMultipleCiphers\MC\src\sqlite3patched.c(218652,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../src/sqlite3mc.c')
+  
+C:\Projects\SqlarMultipleCiphers\MC\src\sqlite3patched.c(218708,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../src/sqlite3mc.c')
+  
+     Creating library ..\bin\vc17\dll\release\sqlite3mc_icu_x64.lib and object ..\bin\vc17\dll\release\sqlite3mc_icu_x64.exp
+  sqlite3mc_vc17_dllicu.vcxproj -> C:\Projects\SqlarMultipleCiphers\MC\bin\vc17\dll\release\sqlite3mc_icu_x64.dll
